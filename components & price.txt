@@ -1,0 +1,4 @@
+Components                                  Price(Rupee)
+1.Node mcu                                      400
+2.OLED display                                  300
+3.Jumper wires                                  20
